@@ -5,7 +5,6 @@ A two-player, tile-based board game where players roll dice, earn money and poin
 ## Table of Contents
 
 - [About the Game](#about-the-game)
-<!-- - [Game Rules](#game-rules) -->
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 
